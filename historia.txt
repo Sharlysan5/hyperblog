@@ -5,4 +5,10 @@ experimento1
 Mañana dormire mucho
 master
 master2
+<<<<<<< HEAD
 hora de jugar 
+=======
+hora de jugar 
+con el git cherry-pick
+no sé que poner aquí
+>>>>>>> history-mejorado
